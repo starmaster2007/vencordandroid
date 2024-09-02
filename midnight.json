@@ -15,7 +15,7 @@
       "BACKGROUND_MODIFIER_ACCENT": ["#000000"],
       "BACKGROUND_MODIFIER_ACTIVE": ["hsla(220, 20%, 40%, 0.2)"],
       "BACKGROUND_MODIFIER_HOVER": ["hsla(230, 20%, 40%, 0.1)"],
-      "BACKGROUND_MODIFIER_SELECTED": ["transparent"],
+      "BACKGROUND_MODIFIER_SELECTED": ["#403d52"],
       "BACKGROUND_PRIMARY": ["hsl(220, 15%, 10%)"],
       "BACKGROUND_SECONDARY": ["hsl(220, 15%, 13%)"],
       "BACKGROUND_SECONDARY_ALT": ["hsl(220, 15%, 16%)"],
