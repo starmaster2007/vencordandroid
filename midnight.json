@@ -1,0 +1,62 @@
+{
+    "name": "Midnight",
+    "description": "A darkened discord theme.",
+    "authors": [
+      {
+        "name": "refact0r",
+        "id": "508863359777505290"
+      }
+    ],
+    "semanticColors": {
+      "BACKGROUND_ACCENT": ["#000000"],
+      "BACKGROUND_MESSAGE_HOVER": ["hsla(220, 0%, 0%, 0.1)"],
+      "BACKGROUND_MOBILE_PRIMARY": ["#000000"],
+      "BACKGROUND_MOBILE_SECONDARY": ["#000000"],
+      "BACKGROUND_MODIFIER_ACCENT": ["#000000"],
+      "BACKGROUND_MODIFIER_ACTIVE": ["hsla(220, 20%, 40%, 0.2)"],
+      "BACKGROUND_MODIFIER_HOVER": ["hsla(230, 20%, 40%, 0.1)"],
+      "BACKGROUND_MODIFIER_SELECTED": ["hsla(220, 20%, 40%, 0.2)"],
+      "BACKGROUND_PRIMARY": ["hsl(220, 15%, 10%)"],
+      "BACKGROUND_SECONDARY": ["hsl(220, 15%, 13%)"],
+      "BACKGROUND_SECONDARY_ALT": ["hsl(220, 15%, 16%)"],
+      "BACKGROUND_TERTIARY": ["hsl(220, 15%, 20%)"],
+      "BORDER_FAINT": ["#ff003c"],
+      "BORDER_STRONG": ["#ff003c"],
+      "BORDER_SUBTLE": ["#ff003c"],
+      "CHANNEL_ICON": ["hsl(220, 15%, 40%)"],
+      "CHANNELS_DEFAULT": ["hsl(220, 15%, 60%)"],
+      "CHAT_BACKGROUND": ["#000000"],
+      "HEADER_PRIMARY": ["hsl(220, 25%, 70%)"],
+      "HEADER_SECONDARY": ["hsl(220, 40%, 90%)"],
+      "HOME_BACKGROUND": ["#000000"],
+      "INTERACTIVE_ACTIVE": ["hsl(190, 80%, 30%)"],
+      "INTERACTIVE_HOVER": ["hsl(190, 80%, 36%)"],
+      "INTERACTIVE_MUTED": ["#ff003c"],
+      "INTERACTIVE_NORMAL": ["hsl(190, 80%, 42%)"],
+      "REDESIGN_ACTIVITY_CARD_BACKGROUND": ["#000000"],
+      "SPOILER_HIDDEN_BACKGROUND": ["#000000"],
+      "TEXT_DANGER": ["#ff003c"],
+      "TEXT_LINK": ["hsl(190, 80%, 60%)"],
+      "TEXT_MUTED": ["hsl(220, 15%, 25%)"],
+      "TEXT_NORMAL": ["hsl(220, 15%, 60%)"],
+      "TEXT_SECONDARY": ["hsl(220, 25%, 70%)"],
+      "CARD_PRIMARY_BG": ["#000000"],
+      "CARD_SECONDARY_BG": ["#000000"]
+    },
+    "rawColors": {
+      "BRAND_260": "#f3e600",
+      "BRAND_360": "#ff003c",
+      "BRAND_500": "#f3e600",
+      "GREEN_100": "#72eaf8",
+      "GUILD_BOOSTING_PINK": "#ff003c",
+      "GUILD_BOOSTING_PURPLE": "#ff003c",
+      "GUILD_BOOSTING_PURPLE_FOR_GRADIENTS": "#ff003c",
+      "PRIMARY_100": "#610017"
+    },
+    "background": {
+      "blur": 0.1,
+      "url": "https://refact0r.github.io/midnight-discord/midnight.css",
+      "alpha": 1.0
+    },
+    "spec": 2
+  }
