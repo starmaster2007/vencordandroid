@@ -42,7 +42,7 @@
       "TEXT_SECONDARY": ["hsl(220, 25%, 70%)"],
       "CARD_PRIMARY_BG": ["#000000"],
       "CARD_SECONDARY_BG": ["#000000"],
-      "BACKGROUND_EXPANDED_FOLDER": ["hsl(220, 15%, 16%)"]
+      "BACKGROUND_EXPANDED_FOLDER": ["transparent"]
     },
     "rawColors": {
       "BRAND_260": "#f3e600",
